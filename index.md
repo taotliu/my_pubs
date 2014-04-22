@@ -21,6 +21,8 @@ Trillo, A., Merchant, R.C., Baird, J.R., Liu, T., and Nirenberg, T.D. (2012). �
 
 ---
 
+### Publications 
+
 1. Fedorov, V.V. and Liu, T.1 (2007). “Enrichment Design.” Encyclopedia of Clinical Trials. John Wiley & Son Press. 
 
 2. Merchant, R., Baird, J., Liu, T., Taylor, L, Montague, B., and Nirenberg, T. (2014)  “Brief intervention to increase emergency department uptake of combined rapid HIV and hepatitis C screening among a drug misusing population.” Academic Emergency Medicine. (Accepted on March 4, 2014)
@@ -33,7 +35,7 @@ Trillo, A., Merchant, R.C., Baird, J.R., Liu, T., and Nirenberg, T.D. (2012). �
 
 3. Xu, H., Short, S.E., and Liu, T. (2013). “Dynamic relations between fast-food restaurant and body weight status: A longitudinal and multilevel analysis of Chinese adults.” Journal of Epidemiology & Community Health, 67:271-279. [PMID: 22923769]. 
 
-4.Liu, T. and Heitjan, D.F. (2012). "Sensitivity of the discrete-time Kaplan-Meier estimate to non-ignorable censoring: Application in a clinical trial". Statistics in Medicine, 31: 2998-3010. [PMID: 22806989]. 
+4. Liu, T. and Heitjan, D.F. (2012). "Sensitivity of the discrete-time Kaplan-Meier estimate to non-ignorable censoring: Application in a clinical trial". Statistics in Medicine, 31: 2998-3010. [PMID: 22806989]. 
 
 5. Trillo, A., Merchant, R.C., Baird, J.R., Liu, T., and Nirenberg, T.D. (2012). “Sex differences in alcohol misuse and estimated blood alcohol concentrations among emergency department patients: Implications for brief interventions.” Academic Emergency Medicine, 19(8):924-33. [PMID: 22849748] [PMCID: PMC3424395]. 
 
@@ -72,6 +74,16 @@ Trillo, A., Merchant, R.C., Baird, J.R., Liu, T., and Nirenberg, T.D. (2012). �
 1. Liu, T. and Sung, S. (2002). “Ammonia inhibition on thermophilic aceticlastic methanogens.” Water Science and Technology, 45(10):113–120. [PMID: 12188530].
 
 1. Liu, T. and Sung, S. (2001). “Effect of ammonia inhibition in thermophilic anaerobic process.” Proceedings of the Water Environment Federation, 2001(1): 1292-1306.
+
+#### Non-Peer Refereed Articles
+
+1. Liu, T., DeLong, A., and Blossom, B. (2009) “Challenge to IDSA recommendations for late neurologic Lyme disease treatment and post Lyme syndrome: A statistical review of NIH-funded treatment studies.” The International Lyme And Associated Diseases Society (IDSA) Lyme Panel Review Hearing (http://www.ilads.org/lyme_disease/written_testimony/ 12%20Liu%20DeLong%20Blossom%20-%20Statistical%20Review.pdf)
+
+1. Liu, T. (2006). “Measuring sensitivity to nonignorable censoring in nonparametric and semiparametric survival modeling.” Doctoral Dissertation. The University of Pennsylvania. (http://repository.upenn.edu/dissertations/AAI3246193/)
+
+1. Fedorov, V. V. and Liu, T. (2005). “Randomized discontinuation trials: design and efficiency.” GlaxoSmithKline Biomedical Data Science Technical Report, 3.
+
+1. Liu, T. (2001). “Ammonia inhibition in thermophilic anaerobic process.” Master thesis, Iowa State Univ. (http://books.google.com/books?id=_XZfNwAACAAJ)
 
 
 --- 
