@@ -78,13 +78,13 @@ tagline: research papers
 
 ### Non-Peer Refereed Articles
 
-1. Liu, T., DeLong, A., and Blossom, B. (2009) “Challenge to IDSA recommendations for late neurologic Lyme disease treatment and post Lyme syndrome: A statistical review of NIH-funded treatment studies.” The International Lyme And Associated Diseases Society (IDSA) Lyme Panel Review Hearing (http://www.ilads.org/lyme_disease/written_testimony/ 12%20Liu%20DeLong%20Blossom%20-%20Statistical%20Review.pdf)
+1. Liu, T., DeLong, A., and Blossom, B. (2009) “Challenge to IDSA recommendations for late neurologic Lyme disease treatment and post Lyme syndrome: A statistical review of NIH-funded treatment studies.” The International Lyme And Associated Diseases Society (IDSA) Lyme Panel Review Hearing [link](http://www.ilads.org/lyme_disease/written_testimony/12%20Liu%20DeLong%20Blossom%20-%20Statistical%20Review.pdf). 
 
-1. Liu, T. (2006). “Measuring sensitivity to nonignorable censoring in nonparametric and semiparametric survival modeling.” Doctoral Dissertation. The University of Pennsylvania. (http://repository.upenn.edu/dissertations/AAI3246193/)
+1. Liu, T. (2006). “Measuring sensitivity to nonignorable censoring in nonparametric and semiparametric survival modeling.” Doctoral Dissertation. The University of Pennsylvania. [link](http://repository.upenn.edu/dissertations/AAI3246193/).
 
 1. Fedorov, V. V. and Liu, T. (2005). “Randomized discontinuation trials: design and efficiency.” GlaxoSmithKline Biomedical Data Science Technical Report, 3.
 
-1. Liu, T. (2001). “Ammonia inhibition in thermophilic anaerobic process.” Master thesis, Iowa State Univ. (http://books.google.com/books?id=_XZfNwAACAAJ)
+1. Liu, T. (2001). “Ammonia inhibition in thermophilic anaerobic process.” Master thesis, Iowa State Univ. [link](http://books.google.com/books?id=_XZfNwAACAAJ)
 
 --- 
 
