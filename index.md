@@ -6,7 +6,7 @@ tagline: research papers
 
 ### Selected research papers 
 
-3. Liu, T., Hogan J.W., Wang, L., Zhang, S. and Kantor, R. (2013). "Optimizing diagnosis of HIV treatment failure in resource limited settings with selective gold standard viral load testing." *Journal of the American Statistical Association (JASA)*, **108** (504): 1173—1188. [DOI: 10.1080/01621459.2013.810149]
+3. Liu, T., Hogan J.W., Wang, L., Zhang, S. and Kantor, R. (2013). "Optimizing diagnosis of HIV treatment failure in resource limited settings with selective gold standard viral load testing." *Journal of the American Statistical Association (JASA)*, **108** (504): 1173—1188. [DOI:10.1080/01621459.2013.810149]
 
 4. Liu, T. and Heitjan, D.F. (2012). "Sensitivity of the discrete-time Kaplan-Meier estimate to non-ignorable censoring: Application in a clinical trial". Statistics in Medicine, 31: 2998-3010. [PMID: 22806989]. 
 Trillo, A., Merchant, R.C., Baird, J.R., Liu, T., and Nirenberg, T.D. (2012). “Sex differences in alcohol misuse and estimated blood alcohol concentrations among emergency department patients: Implications for brief interventions.” Academic Emergency Medicine, 19(8):924-33. [PMID: 22849748] [PMCID: PMC3424395]. 
